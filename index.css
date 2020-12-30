@@ -35,21 +35,21 @@ background-image: url('data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAABZMAAAKkCAY
 
 
 a:link {
-  color: black;
+  color: rgb(235, 235, 235);
 }
 
 a:visited {
-  color: black;
+  color: white;
 }
 
 .button3 {
-  color: rgb(0, 0, 0);
+  color: rgb(235, 235, 235);
   text-align: center;
   padding: 15px 32px;
 }
 
 .font-color {
-  color: rgb(0, 0, 0);
+  color: rgb(235, 235, 235);
   text-align: center;
 }
 
